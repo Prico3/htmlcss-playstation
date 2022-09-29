@@ -1,0 +1,17 @@
+html{
+    font-size: 100%;
+}
+/* HEADER */
+/* header-top */
+.ms-header-top{
+    background-color: black;
+    height: 80px;
+    width: 100%;
+}
+
+.ms-header-top img{
+    width: 200px;
+}
+
+
+
