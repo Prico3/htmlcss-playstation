@@ -4,7 +4,6 @@ html{
 
 img{
     width: 100%;
-    height: 100%;
 }
 
 /* HEADER */
@@ -45,3 +44,13 @@ img{
 
 
 /* /JUMBOTRON */
+
+/* LIBRARY */
+
+#library{
+    margin: 2rem;
+}
+#library img{
+    border-radius: 20px;
+}
+/* /LIBRARY */
