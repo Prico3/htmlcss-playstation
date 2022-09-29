@@ -1,7 +1,9 @@
 html{
     font-size: 100%;
 }
+
 /* HEADER */
+
 /* header-top */
 .ms-header-top{
     background-color: black;
@@ -10,8 +12,16 @@ html{
 }
 
 .ms-header-top img{
-    width: 200px;
+    width: 100px;
 }
+/* /header top */
+
+/* header bottom */
+
+/* /header bottom */
+
+/* /HEADER */
+
 
 
 
