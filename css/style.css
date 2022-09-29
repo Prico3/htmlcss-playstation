@@ -54,3 +54,23 @@ img{
     border-radius: 20px;
 }
 /* /LIBRARY */
+
+
+/* BANNER */
+#banner{
+    background-image: url(../img/it-takes-two-hero-banner-desktop.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+
+}
+
+#banner img{
+    width: 300px;
+}
+/* /BANNER */
+
+/* NEW RELEASES */
+#new-releases{
+    background-color: #1f1f1f;
+}
+/* /NEW RELEASES */
