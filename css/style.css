@@ -172,6 +172,14 @@ header{
 }
 /* /NEW RELEASES */
 
+/* PS4 */
+#ps4 .ms-btn-blue{
+    border-radius: 50px;
+    background-color: blue;
+    color:white;
+}
+/* PS4 */
+
 /* PLUS */
 #plus{
     background-color: grey;
