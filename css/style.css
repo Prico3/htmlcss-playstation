@@ -6,6 +6,9 @@ img{
     width: 100%;
 }
 
+.p-grey{
+    color: #bebcbb;
+}
 
 
 /* HEADER */
@@ -42,10 +45,10 @@ header{
     background-image: url(../img/jumbo-bg.png);
     background-repeat: no-repeat;
     background-size: cover;
-    background-position: center;
+    background-position: top;
     min-height: 500px;
     padding-top: 200px;
-    margin-top: 180px;
+    margin-top: 160px;
 }
 #jumbotron img{
     width: 300px;
@@ -53,6 +56,11 @@ header{
 
 .jumbo-text *{
     margin: 0.5em;
+}
+.jumbo-text .ms-btn-orange{
+    border-radius: 50px;
+    background-color: orange;
+    color:white;
 }
 
 /* /JUMBOTRON */
@@ -76,6 +84,8 @@ header{
     background-color: blue;
     color:white;
 }
+
+
 /* /SHOWCASE */
 
 /* ACCESORIES */
@@ -135,7 +145,7 @@ header{
     background-image: url(../img/it-takes-two-hero-banner-desktop.jpg);
     background-repeat: no-repeat;
     background-size: cover;
-    background-position: center;
+    background-position: top;
     min-height: 500px;
     padding: 50px;
 
@@ -178,6 +188,8 @@ header{
     background-color: blue;
     color:white;
 }
+
+
 /* PS4 */
 
 /* PLUS */
@@ -191,6 +203,14 @@ header{
     color: blue;
 }
 
+.plus-text *{
+    margin-bottom: 2rem;
+}
+
+.plus-text img{
+    width: 400px;
+}
+
 
 /* /PLUS */
 
@@ -198,6 +218,14 @@ header{
 #now{
     background-color: #161c3b;
     color: white;
+}
+
+.now-text *{
+    margin-bottom: 2rem;
+}
+
+.now-text img{
+    width: 400px;
 }
 /* /NOW */
 
@@ -214,3 +242,31 @@ header{
     color: #161c3b;
 }
 /* /NOW */
+
+
+/* FOOTER */
+
+
+footer,
+footer .card{
+    background-color: #00439c;
+}
+
+footer .card{
+    color: white;
+    border: none;
+}
+
+footer ul li{
+    list-style: none;
+}
+
+footer a{
+    color: inherit;
+    text-decoration: none;
+}
+
+footer img{
+    width: 180px;
+}    
+/* /FOOTER */
