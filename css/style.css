@@ -45,7 +45,7 @@ header{
     background-position: center;
     min-height: 500px;
     padding-top: 200px;
-    margin-top: 100px;
+    margin-top: 180px;
 }
 #jumbotron img{
     width: 300px;
@@ -77,6 +77,27 @@ header{
     color:white;
 }
 /* /SHOWCASE */
+
+/* ACCESORIES */
+#accesories{
+    margin: 100px 0;
+}
+
+#accesories .card{
+    border: none;
+}
+
+
+#accesories img{
+    opacity: 0.5;
+}
+
+#accesories img:hover{
+    border-bottom: 4px solid blue;
+    border-radius: none;
+    opacity: 1;
+}
+/* /ACCESORIES */
 
 
 /* LIBRARY */
