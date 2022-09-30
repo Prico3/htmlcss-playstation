@@ -41,8 +41,9 @@ header{
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
-
-    height: 500px;
+    min-height: 500px;
+    padding-top: 200px;
+    margin-top: 100px;
 }
 #jumbotron img{
     width: 300px;
