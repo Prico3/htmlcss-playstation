@@ -182,9 +182,15 @@ header{
 
 /* PLUS */
 #plus{
-    background-color: grey;
-   
+    background-color: #bebcbb;
 }
+
+#plus .ms-btn-grey{
+    border-radius: 50px;
+    background-color: #d9dadc;
+    color: blue;
+}
+
 
 /* /PLUS */
 
