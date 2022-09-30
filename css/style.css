@@ -158,11 +158,17 @@ header{
 #new-releases{
     background-color: #1f1f1f;
     color: white;
+    padding: 50px;
 }
 
 #new-releases .card{
     background-color: #1f1f1f;
+    border: none;
   
+}
+
+#new-releases img{
+    border-radius: 20px;
 }
 /* /NEW RELEASES */
 
