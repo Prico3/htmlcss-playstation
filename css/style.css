@@ -12,6 +12,8 @@ img{
 header{
     position: fixed;
     z-index: 999;
+    top: 0;
+    left: 0;
     width: 100%;
 }
 /* header-top */
@@ -53,11 +55,31 @@ header{
     margin: 0.5em;
 }
 
-
 /* /JUMBOTRON */
 
-/* LIBRARY */
+/* SHOWCASE */
+/* showcase top */
+.text-showcase-top{
+    margin-bottom: 3rem;
+}
 
+.text-showcase-top p:first-child { 
+    color: blue;
+    margin: 0;
+}
+
+
+
+/* showcase bottom */
+.text-showcase-bottom .ms-btn-blue{
+    border-radius: 50px;
+    background-color: blue;
+    color:white;
+}
+/* /SHOWCASE */
+
+
+/* LIBRARY */
 #library{
     margin: 2rem;
 }
@@ -83,10 +105,6 @@ header{
 #library .card:hover{
     padding-top: 30px;
 }
-
-
-
-
 
 /* /LIBRARY */
 
