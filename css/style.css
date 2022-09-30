@@ -206,3 +206,11 @@ header{
     color: #bebcbb;
 }
 /* /DISCOUNTS */
+
+/* NOW */
+#now .ms-btn-white{
+    border-radius: 50px;
+    background-color: white;
+    color: #161c3b;
+}
+/* /NOW */
