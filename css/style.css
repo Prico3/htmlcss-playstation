@@ -136,12 +136,22 @@ header{
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
+    min-height: 500px;
+    padding: 50px;
 
 }
 
 #banner img{
     width: 300px;
 }
+
+#banner .ms-btn-orange{
+    border-radius: 50px;
+    background-color: orange;
+    color:white;
+
+}
+
 /* /BANNER */
 
 /* NEW RELEASES */
